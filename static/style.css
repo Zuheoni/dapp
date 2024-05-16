@@ -1,0 +1,9 @@
+/* 부트스트랩으로 표현할 수 없는 스타일 사용:
+textarea {
+    width:100%;
+}
+
+
+input[type=submit] {
+    margin-top:10px;
+}*/
